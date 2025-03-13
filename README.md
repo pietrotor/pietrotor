@@ -10,7 +10,7 @@
 
 ### About Me
 
-I am a frontend developer with 3 years of experience working with technologies like React, Next.js, TypeScript, HTML, and CSS. My passion is creating exceptional user experiences through intuitive and efficient interfaces.
+I am a Full Stack developer with 4 years of experience working with technologies like React, Next.js, TypeScript, HTML, and CSS. My passion is creating exceptional user experiences through intuitive and efficient interfaces.
 
 ### Professional Experience
 
