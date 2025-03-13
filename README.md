@@ -1,6 +1,6 @@
 # Pietro Torrico Escobar
 
-## Frontend Developer
+## Full Stack Developer
 
 📞 +591 69531998  
 📧 [tu@email.com](mailto:tu@email.com)  
