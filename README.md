@@ -3,7 +3,7 @@
 ## Full Stack Developer
 
 📞 +591 69531998  
-📧 [tu@email.com](mailto:tu@email.com)  
+📧 [torricopietro@email.com](mailto:torricopietro@email.com)  
 🌐 LinkedIn: [linkedin.com/in/pietro-torrico-escobar-bo](https://www.linkedin.com/in/pietro-torrico-escobar-bo/)  
 💻 GitHub: [github.com/pietrotor](https://github.com/pietrotor)  
 🔗 Portfolio: [portofolio-pietrotor.vercel.app](https://portofolio-pietrotor.vercel.app/)
